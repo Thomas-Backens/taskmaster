@@ -25,3 +25,9 @@ Add all your changes with `git add .`
 Commit your changes with `git commit -m "WHAT YOU DID"` (i.e "Added styling to the Topbar")
 
 Capitals and spaces don't matter, since it's in quotations
+
+And finally `git push`
+
+It will ask you to push upstream, just copy the command (i.e `git push --set-upstream origin NAMEOFBRANCH`)
+
+It might ask for your ssh key passphrase, just type it in and press enter
