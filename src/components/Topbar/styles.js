@@ -3,7 +3,7 @@ import theme from "../../styles/theme";
 
 const useStyles = makeStyles(() => ({
   root: {
-    backgroundColor: theme.palette.surface.black,
+    backgroundColor: theme.palette.background.default,
     width: "100%",
     height: 80,
     marginBottom: 160,

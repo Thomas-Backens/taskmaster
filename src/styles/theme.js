@@ -3,19 +3,20 @@ import { createTheme } from "@material-ui/core/styles";
 const theme = createTheme({
   palette: {
     primary: {
-      main: "#3AD076",
+      main: "#fc8644",
     },
     secondary: {
-      main: "#F85050",
+      main: "#51fafc",
     },
     surface: {
       white: "#FFFFFF",
-      semiWhite: "#FAFAFA",
-      black: "#393939",
-      lightGrey: "#6A6A6A",
+      black: "#2A2A2A",
+      grey: "#4F4F4F",
+      success: "#63B662",
+      error: "#EC4B4B",
     },
     background: {
-      default: "#2A2A2A",
+      default: "#393939",
     },
   },
   typography: {
