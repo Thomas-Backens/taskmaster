@@ -1,0 +1,16 @@
+.topbarTitle {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #393939;
+  width: 100%;
+  height: 80px;
+  z-index: 999;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding-left: 30px;
+}
+.topbarTitle > h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: 600;
+}
